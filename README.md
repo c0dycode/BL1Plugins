@@ -5,6 +5,8 @@ In this repository you can find my Borderlands 1 Plugin(s).
 So far there is only ONE. And that is a SanityCheck Bypass, which also is only for the non-"Enhanced" version of BL1.
 
 # Installation
+First, download the archive from [here](https://github.com/c0dycode/BL1Plugins/raw/master/BL1%20SanityCheck%20Bypass.zip).
+
 If you're familiar with my other [PluginLoader](https://github.com/c0dycode/DLLPluginLoader), it works exactly the same.
 
 In this case, the PluginLoader requires two files.
